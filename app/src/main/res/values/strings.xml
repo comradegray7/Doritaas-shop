@@ -1,0 +1,172 @@
+<resources>
+    <string name="app_name">Doritaas</string>
+
+    <string name="logo">Doritaas</string>
+
+<!--    on boarding messages -->
+
+    <!--    screen one-->
+    <string name="welcome_title">Welcome to Doritaas</string>
+    <string name="welcome_subtitle">Are you tired of high prices?, delays?,
+        and low quality goods?, search no further, Doritaas offers a wide range
+        of product catalogue and prices both on wholesale
+        and retail.</string>
+
+<!--    screen two-->
+    <string name="ai_title">AI Shopping</string>
+    <string name="ai_sub_title">Experience the best shopping with AI search assistance,
+        Image detection, Image search, suggestions, smart reminders through notifications,
+        autocompletion and many more.</string>
+<!--general texts-->
+    <string name="lorem_short">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+    </string>
+    <string name="lorem_full">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
+        ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
+        ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit
+        esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+        proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    </string>
+
+    <!--    screen three-->
+    <string name="create_account_now_title">Create an account now!</string>
+    <string name="create_account_now_subtitle">Begin by creating a user account
+        and enjoy promotions, gifts and many more, all on Doritaas</string>
+
+<!--sign in /up messages-->
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="create_account">Create Account</string>
+    <string name="sign_in_message">Sign in to continue to Doritaas</string>
+    <string name="create_account_message">Create your Account</string>
+    <string name="or">or</string>
+    <string name="do_not_have_account">Do not have an Account?</string>
+    <string name="already_have_account">Already have an Account?</string>
+    <string name="sign_in_to_your_account">Sign in to your Account</string>
+
+    <!-- sign in/up with social and email   -->
+    <string name="sign_in_with_google">Continue with Google</string>
+    <string name="sign_in_with_Apple">Continue with Apple</string>
+    <string name="sign_in_with_Email">Continue with Email</string>
+
+<!--    password reset-->
+    <string name="password_requirement">Password must be at least 8 Characters</string>
+    <string name="forgot_password">Forget Password?</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="do_not_worry">Don\'t worry! Enter your email address and we\'ll send you a code to reset your password.</string>
+    <string name="sample_email">comradegrayson@gmail.com</string>
+    <string name="remember_password">Remember your password? </string>
+    <string name="check_email">Check your Email</string>
+    <string name="set_new_password">Set New Password</string>
+    <string name="previous">Previous</string>
+
+   <!--    set new password-->
+    <string name="change_password">Change Your Password</string>
+    <string name="did_not_receive_email">Din\'t receive the Email</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="re_enter_password">Re-Enter Password</string>
+
+    <!--icons -->
+    <string name="apple_icon">Apple Icon</string>
+    <string name="google_icon">Google Icon</string>
+    <string name="email_icon">Email Icon</string>
+
+<!-- reset code screen-->
+    <string name="resend_code">Resend Code</string>
+    <string name="verify_code">Verify Code</string>
+    <string name="code_verification">Confirm Your Code</string>
+    <string name="code_sent">We\'ve sent a password reset code to:</string>
+    <string name="did_not_get_code">Did not get Code?</string>
+    <string name="confirm_verification_code">We\'ve sent a 6-digit verification code to your email address. Please enter it below to reset your password.</string>
+
+<!--   app screen messages-->
+<!--    shopping cart screen messages -->
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="check_out">CheckOut</string>
+    <string name="remove_from_cart">Remove From CheckOut</string>
+
+<!--    profile screen messages  -->
+    <string name="add_new_profile">Add new Profile</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="delete_profile">Delete Profile</string>
+
+    <!-- action messages   -->
+    <string name="begin">Begin</string>
+    <string name="proceed">Proceed</string>
+    <string name="next">Next</string>
+    <string name="back">Back</string>
+    <string name="finish">Finish</string>
+    <string name="buy_now">Buy Now</string>
+    <string name="processing">Processing…</string>
+    <string name="complete_purchase">Complete Purchase</string>
+
+<!--    form texts-->
+    <string name="full_name">FullName</string>
+    <string name="enter_full_name">Enter FullName</string>
+    <string name="email">Email</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="password">Password</string>
+    <string name="enter_password">Enter Password</string>
+
+<!-- forms destination names-->
+    <string name="profile_destination">profile</string>
+    <string name="sign_up__destination">signUp</string>
+    <string name="sign_in_destination">signIn</string>
+    <string name="email_destination">email</string>
+    <string name="forget_password_destination">forgetPassword</string>
+    <string name="new_password_destination">newPassword</string>
+    <string name="rest_code_destination">resetCode</string>
+
+<!--  app bar title  -->
+    <string name="shopping_cart_title">Shopping Cart</string>
+    <string name="all_products_title">All Products</string>
+    <string name="filtered_products_title">Filter Products</string>
+    <string name="search_title">Search</string>
+    <string name="check_out_title">CheckOut</string>
+    <string name="shop_by_category_title">Shop By Category</string>
+    <string name="wishlist_title">My WishList</string>
+    <string name="product_details_title">Product Details</string>
+
+<!--  all products screen-->
+    <string name="electronics_category">Electronics</string>
+    <string name="tvs_and_accessories_category">Tvs &amp; Accessories</string>
+    <string name="pcs_and_accessories_category">Pcs &amp; Accessories</string>
+    <string name="furniture_and_hardware_category">Furniture &amp; Hardware</string>
+    <string name="stationery_products_category">Stationery Products</string>
+    <string name="home_and_garden_category">Home &amp; Garden</string>
+    <string name="clothing_and_apparel_category">Clothing &amp; Apparel</string>
+    <string name="boys_apparel_category">Boys &amp; Ware</string>
+    <string name="girls_apparel_category">Girls &amp; Ware</string>
+    <string name="plumbing_and_hardware">Plumbing &amp; Hardware</string>
+    <string name="home_and_tiles_category">Home &amp; Tiles</string>
+
+<!-- product content-->
+    <string name="featured_products">Trending Products</string>
+    <string name="you_may_also_like_products">You may also like This</string>
+    <string name="shop_by_category_products">Shop by Product Category</string>
+    <string name="trending_products">Trending Products</string>
+    <string name="payment_methods">Payment Methods</string>
+    <string name="tax">Tax</string>
+    <string name="total">Total</string>
+    <string name="sub_total">Sub Total</string>
+    <string name="popular_item">Popular item</string>
+    <string name="free">Free</string>
+    <string name="trending_now">Trending now</string>
+    <string name="shipping">Shipping Options</string>
+    <string name="free_shipping">Free Shipping</string>
+    <string name="contact_info">Contact Information</string>
+
+<!-- search screen-->
+ <string name="recent_search">Recent Searches</string>
+ <string name="search_results">Recent Searches</string>
+ <string name="no_products_found">No Product Found</string>
+ <string name="no_results">No Results</string>
+ <string name="clear_filter">Clear Filters</string>
+ <string name="search_products">Search Products…</string>
+ <string name="adjust_search">Try adjusting your filters to see more results</string>
+
+<!--profile name-->
+    <string name="profile_name">Grayson Comrade Msiska</string>
+</resources>
